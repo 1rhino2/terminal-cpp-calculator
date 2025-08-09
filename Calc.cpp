@@ -1,6 +1,6 @@
 // Calc.cpp
 // MIT License
-// Copyright (c) 2025 1rhino2
+// Copyright (c) 2025 Rhino!!
 
 // See LICENSE file in the root of this repository.
 #include <iostream>
