@@ -25,7 +25,7 @@ int main() {
     double num1, num2;
     char op;
 
-    cout << "Simple C++ Calculator\n";
+    cout << "C++ Calculator\n";
     cout << "Enter operation (e.g., 5 + 3): ";
     cin >> num1 >> op >> num2;
 
