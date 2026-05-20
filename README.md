@@ -1,7 +1,14 @@
+# terminal-cpp-calculator
 
-C++ Simple Calculator
+Basic four-function calculator in C++ for the terminal.
 
-A tiny C++ calculator that does basic math: add, subtract, multiply, divide.
+## Build
 
-Made for beginners learning C++, or lazy students trying to skip math.
+```bash
+g++ -std=c++17 -o calc main.cpp
+./calc
+```
 
+## License
+
+MIT
